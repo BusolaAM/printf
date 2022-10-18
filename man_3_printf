@@ -121,8 +121,10 @@ int main(void)
 	return (0);
 
 }
+
 .SH SEE ALSO
 .R printf(3)
-
+.SH BUGS
+Report _printf Busola Atinsola (busolaatinsola@gmail.com), Joseph Chiagozoe Aralu (aralujoseph@gmail.com)
 .SH AUTHORS
 .B Busola Atinsola and Joseph Aralu
