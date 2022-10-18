@@ -1,5 +1,9 @@
-This is a Readme file for 0x11. C - printf group project between Busola M Atinsola and Aralu C. Joseph
+# This README file is for the alx printf collaboration project
+
+Teamwork Makes the Dream Work-ALX Collaboration Project. As a team, we are writing printf functions of our own. We are to come up with our prototypes for the rest of the tasks.
+
 Below are lists of the required tasks to achieve the oblectives:
+
 0 - Write a function that produces output according to a format.
 1 - Handle the following conversion specifiers: d, i
 2 - Handle the following custom conversion specifiers: b (the unsigned int argument is converted to binary)
@@ -16,3 +20,7 @@ Below are lists of the required tasks to achieve the oblectives:
 13 - Handle the following custom conversion specifier: r (prints the reversed string).
 14 - Handle the following custom conversion specifier: R (prints the rot13'ed string).
 15 - All the above options work well together.
+
+"CONTRIBUTORS"
+Busola Atinsola
+Joseph Chiagozie Aralu
