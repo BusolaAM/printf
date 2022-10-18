@@ -124,3 +124,5 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 
+.SH AUTHORS
+.B Busola Atinsola and Joseph Aralu

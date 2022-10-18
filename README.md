@@ -1,6 +1,14 @@
 # This README file is for the alx printf collaboration project
 
-Teamwork Makes the Dream Work-ALX Collaboration Project. As a team, we are writing printf functions of our own. We are to come up with our prototypes for the rest of the tasks.
+Teamwork Makes the Dream Work-ALX Collaboration Project. As a team, we are writing printf functions of our own. We are to come up with our prototypes for the rest of the tasks, an example of which you will find below;
+
+Example
+
+_printf() is a function that performs formatted output conversion and prints data. Its prototype is the following:
+
+int _printf(const char *format, ...)
+
+You will find the rest of the prototypes in our "main.h" file
 
 Below are lists of the required tasks to achieve the oblectives:
 
